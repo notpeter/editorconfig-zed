@@ -1,0 +1,11 @@
+id = "editorconfig"
+name = "Editorconfig"
+schema_version = 1
+version = "0.1.0"
+authors = ["Peter Tripp <petertripp@gmail.com>"]
+description = "Editorconfig language support for Zed."
+repository = "https://github.com/notpeter/editorconfig-zed"
+
+[grammars.editorconfig]
+repository = "https://github.com/ValdezFOmar/tree-sitter-editorconfig"
+commit = "439a3fcdbf239db35f587936a36f48b704ba8357"

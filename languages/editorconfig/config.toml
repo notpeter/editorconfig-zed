@@ -1,0 +1,4 @@
+name = "Editorconfig"
+grammar = "editorconfig"
+path_suffixes = ["editorconfig"]
+line_comments = ["# "]
